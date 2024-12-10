@@ -55,12 +55,15 @@ Isınma turları
     - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=jgclark.vscode-todo-highlight)
   - AI Coding
     - [Codeium](https://codeium.com/vscode_tutorial) #ai
+  - [Responsive Viewer](https://chromewebstore.google.com/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en&pli=1) #extension
 
 ---
 
 # W1D1 2024-12-09
 
-[console.error(`Hello real world!`) #ecomm
+```bash
+console.error(`Hello real world! #ecomm`);
+```
 
 ## Açılış 🚀🚀
 
