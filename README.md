@@ -6,8 +6,10 @@ Toplantı notlarında en yenisi en üstte olacak şekilde listelenecek.
 
 Hepinize iyi eğlenceler 🎉
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+![Mascot](fun/mascot-0.jpg)
+
+  <!-- START doctoc generated TOC please keep comment here to allow auto update -->
+  <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [W1D2: 2024-12-10](#w1d2-2024-12-10)
   - [😎 PM Meeting Notes: "PM çok da yazılımdan uzak değilmiş"](#-pm-meeting-notes-pm-%C3%A7ok-da-yaz%C4%B1l%C4%B1mdan-uzak-de%C4%9Filmi%C5%9F)
