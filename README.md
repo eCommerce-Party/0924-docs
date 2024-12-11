@@ -40,6 +40,12 @@ AI sizin yasak aşkınız, kopya arkadaşınız değil, ekip üyeniz asistanın�
 - [v0](https://v0.dev) #ui
   - [Signup Form Conversation](https://v0.dev/chat/mHrzD0Kqzij?b=b_BrVkTlt5IQp)
 
+**#bugbounty**
+
+- Aday: Berk Karademir
+  "useNavigate react router v6'yla beraber gelmiş ve useHistory yerine kullanılmış, bizden Task-1 de v5 kurmamız istendiği için projeyi patlatıyor ilgili kısımlar useHistory ile değiştirilebilir :)"
+- Sonuç: Gidiş yolu doğru: "PM, AIa v5 kullanıyoruz demediğinden, asistanın ürettiği kod hatalı sayılmaz. PM hatalı, eksik iş tanımı vermiş"
+
 ### Masaüstü Uygulamaları
 
 Webde çalışsalar da bilgisayarlarınıza indirerek kullanmanızı ben ve teknik istiyoruz.
@@ -75,6 +81,7 @@ Isınma turları
 - Github’ı görselleştirmek için [GitKraken](https://www.gitkraken.com/) Uygulaması
 - [HTML `<s>` Tag](https://www.w3schools.com/tags/tag_s.asp)
 - State of Surveys
+
   - [State of HTML](https://survey.devographics.com/tr-TR/survey/state-of-html/2024/outline/1)
   - [State of CSS](https://2023.stateofcss.com/en-US/css-frameworks/)
 
