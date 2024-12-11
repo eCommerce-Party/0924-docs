@@ -8,9 +8,15 @@ Hepinize iyi eğlenceler 🎉
 
 ![Mascot](fun/mascot-0.jpg)
 
-  <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-  <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [W1D3: 2024-12-11](#w1d3-2024-12-11)
+  - [😎 PM Meeting Notes: "Houston we have a problem: SignUp Login"](#-pm-meeting-notes-houston-we-have-a-problem-signup-login)
+    - [Internet Sayfaları](#internet-sayfalar%C4%B1)
+    - [Masaüstü Uygulamaları](#masa%C3%BCst%C3%BC-uygulamalar%C4%B1)
+  - [🤓 Dev Meeting Notes "hızlı çalışmayı değil, verimsiz çalışmamayı düşünün"](#-dev-meeting-notes-h%C4%B1zl%C4%B1-%C3%A7al%C4%B1%C5%9Fmay%C4%B1-de%C4%9Fil-verimsiz-%C3%A7al%C4%B1%C5%9Fmamay%C4%B1-d%C3%BC%C5%9F%C3%BCn%C3%BCn)
+    - [VS Code Eklentileri](#vs-code-eklentileri)
 - [W1D2: 2024-12-10](#w1d2-2024-12-10)
   - [😎 PM Meeting Notes: "PM çok da yazılımdan uzak değilmiş"](#-pm-meeting-notes-pm-%C3%A7ok-da-yaz%C4%B1l%C4%B1mdan-uzak-de%C4%9Filmi%C5%9F)
   - [🤓 Dev Meeting Notes "Github'dan kaçarken gride tutulduk"](#-dev-meeting-notes-githubdan-ka%C3%A7arken-gride-tutulduk)
@@ -21,12 +27,13 @@ Hepinize iyi eğlenceler 🎉
       - [Pair Programming #sofskill](#pair-programming-sofskill)
   - [😎 PM Meeting Notes: "Neden GitHub Projects kullanıyoruz? Jira yok mu?](#-pm-meeting-notes-neden-github-projects-kullan%C4%B1yoruz-jira-yok-mu)
   - [🤓 Dev Meeting Notes: "Tailwind ile başımmm dertteee, ne yapsam bilmiyorummm"](#-dev-meeting-notes-tailwind-ile-ba%C5%9F%C4%B1mmm-dertteee-ne-yapsam-bilmiyorummm)
+- [Takım Listesi](#tak%C4%B1m-listesi)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # W1D3: 2024-12-11
 
-İlk sunumlar yapıldı.
+İlk sunumlar yapıldı. Proje planında acil değişiklik yapıldı. "Yeni asistanınızla tanışın"
 
 ## 😎 PM Meeting Notes: "Houston we have a problem: SignUp Login"
 
@@ -59,9 +66,9 @@ Hızlı çalışmaya çalışmak verine, sizi yavaşlatan kısımları azaltın.
 
 - Sonraki müşsteri sunumunda müşteri fonksiyonalite görmek istiyor. ![T08 ve T10](W1D3.png) iş planına eklendi.
 
-## 🤓 Dev Meeting Notes "Github'dan kaçarken gride tutulduk"
+## 🤓 Dev Meeting Notes "hızlı çalışmayı değil, verimsiz çalışmamayı düşünün"
 
-## VS Code Eklentileri
+### VS Code Eklentileri
 
 - Asistan + Chat [Codeium](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium)
   **⚠ AYNI ANDA İKİ FARKLI ASİSTAN AKTİFLEŞTİRMEYİN** Örn codeium + copilot vs
