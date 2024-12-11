@@ -24,6 +24,46 @@ Hepinize iyi eğlenceler 🎉
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+# W1D3: 2024-12-11
+
+İlk sunumlar yapıldı.
+
+## 😎 PM Meeting Notes: "Houston we have a problem: SignUp Login"
+
+AI sizin yasak aşkınız, kopya arkadaşınız değil, ekip üyeniz asistanınız. Siz PM o Asistan perspektifinden bakmalısınız.
+
+### Internet Sayfaları
+
+- [DeepL](https://www.deepl.com/en/translator) tecüme
+- [Blackbox.ai](https://www.blackbox.ai) #ui
+  - [SignUp Form Conversation](https://www.blackbox.ai/share/f85d7cd1-e7bb-4d7e-8bf9-ae300ccaa8d4)
+- [v0](https://v0.dev) #ui
+  - [Signup Form Conversation](https://v0.dev/chat/mHrzD0Kqzij?b=b_BrVkTlt5IQp)
+
+### Masaüstü Uygulamaları
+
+Webde çalışsalar da bilgisayarlarınıza indirerek kullanmanızı ben ve teknik istiyoruz.
+
+- [GitKraken](https://staging-www.gitkraken.com/download)
+  TODO:[0924-Docs](https://github.com/eCommerce-Party/0924-docs/tree/main/fun)’a ekleme yapıp PR atabilirsiniz. Takım listesi ekledim. Herkes altına kendi adını yazıp, isimlere GitHub profillerinizi linklesin.
+- [Postman](https://www.postman.com/downloads/) projeniz için bir collection oluşturup, ilerledikçe dökümente edin.
+
+Hızlı çalışmaya çalışmak verine, sizi yavaşlatan kısımları azaltın. Kendinizi izleyin ve israfı azaltın.
+["Bu Koç Her Küçük Şeyi Yüzde 1 İyileştirdi ve İşte Olanlar"](https://jamesclear.com/marginal-gains) #read #goldmine makaleyi [deepl](https://www.deepl.com/en/translator#en/tr/https%3A%5C%2F%5C%2Fjamesclear.com%5C%2Fmarginal-gains) ile tercüme edebilirsiniz.
+
+- Sonraki müşsteri sunumunda müşteri fonksiyonalite görmek istiyor. ![T08 ve T10](W1D3.png) iş planına eklendi.
+
+## 🤓 Dev Meeting Notes "Github'dan kaçarken gride tutulduk"
+
+## VS Code Eklentileri
+
+- Asistan + Chat [Codeium](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium)
+  **⚠ AYNI ANDA İKİ FARKLI ASİSTAN AKTİFLEŞTİRMEYİN** Örn codeium + copilot vs
+- Prettier
+
+Verimli çalışmak için, pencereler arasında gezmeyecek şekilde masa üstünüzü düzenleyin. Az ekran değiştirin.
+![Ekranınızı her şeyi aynı anda görecek çekilde ayarlayın](productive-desktop-layout.png)
+
 # W1D2: 2024-12-10
 
 Isınma turları
@@ -130,3 +170,9 @@ Takımlara belirlendi #rafiki. İş kabul standartları belirlendi.
   - [Demo](https://tw-elements.com/learn/te-foundations/tailwind-css/containers/)
 - Carousel Slider
   - [How to create carousel slider in Tailwind css and React js ?](https://www.youtube.com/watch?app=desktop&v=GguJODC2cvI&t=565s) #youtube #tutorial
+
+# Takım Listesi
+
+TODO: Herkes, repoda kendi adıyla bir branch açıp, buranın altına kendi adını, proje planını ve Reposunu eklesin ve main'e PR atsın. Beni de reviewer eklesin.
+
+- [Gökhan Özdemir](https://github.com/gokhanozdemir) Proje [Planı](https://github.com/orgs/Workintech-Graduate-Projects/projects/12/views/2) ve [Repo](https://github.com/gokhanozdemir/mesela-ecommerce)
