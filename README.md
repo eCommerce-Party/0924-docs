@@ -190,3 +190,4 @@ Takımlara belirlendi #rafiki. İş kabul standartları belirlendi.
 TODO: Herkes, repoda kendi adıyla bir branch açıp, buranın altına kendi adını, proje planını ve Reposunu eklesin ve main'e PR atsın. Beni de reviewer eklesin.
 
 - [Gökhan Özdemir](https://github.com/gokhanozdemir) Proje [Planı](https://github.com/orgs/Workintech-Graduate-Projects/projects/12/views/2) ve [Repo](https://github.com/gokhanozdemir/mesela-ecommerce)
+- [Furkan Ozan Yüce](https://github.com/furkanozanyuce) Proje [Planı](https://github.com/users/furkanozanyuce/projects/1) ve [Repo](https://github.com/furkanozanyuce/my-ecommerce)
