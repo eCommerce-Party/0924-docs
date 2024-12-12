@@ -77,6 +77,13 @@ Hızlı çalışmaya çalışmak verine, sizi yavaşlatan kısımları azaltın.
 Verimli çalışmak için, pencereler arasında gezmeyecek şekilde masa üstünüzü düzenleyin. Az ekran değiştirin.
 ![Ekranınızı her şeyi aynı anda görecek çekilde ayarlayın](productive-desktop-layout.png)
 
+_PowerToys ile Masaüstünü Etkili Kullanmak_
+
+*https://www.loom.com/share/928a416a4bb64b3299df316b660aa2f4*
+
+  (Kendimi çektim, belki meşhur olurum diye. Şakası bir yana program efsaneee, arayüz oldukça basit ve bir o kadar da işlevsellik barındırıyor.)
+  (Artık sabah uyanınca kim Vs-Code'u açaçak,tarayıcıyı açaçak onu yazacak bunu kapatacak... derdine son! _Tek tık ile sizin adınıza saniyeler içerisinde kayıtlı çalışma düzeninizi ekrana getiriyor._)
+
 # W1D2: 2024-12-10
 
 Isınma turları
