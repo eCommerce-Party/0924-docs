@@ -77,6 +77,13 @@ Hızlı çalışmaya çalışmak verine, sizi yavaşlatan kısımları azaltın.
 Verimli çalışmak için, pencereler arasında gezmeyecek şekilde masa üstünüzü düzenleyin. Az ekran değiştirin.
 ![Ekranınızı her şeyi aynı anda görecek çekilde ayarlayın](productive-desktop-layout.png)
 
+_PowerToys ile Masaüstünü Etkili Kullanmak_
+
+*https://www.loom.com/share/928a416a4bb64b3299df316b660aa2f4*
+
+  (Kendimi çektim, belki meşhur olurum diye. Şakası bir yana program efsaneee, arayüz oldukça basit ve bir o kadar da işlevsellik barındırıyor.)
+  (Artık sabah uyanınca kim Vs-Code'u açaçak,tarayıcıyı açaçak onu yazacak bunu kapatacak... derdine son! _Tek tık ile sizin adınıza saniyeler içerisinde kayıtlı çalışma düzeninizi ekrana getiriyor._)
+
 # W1D2: 2024-12-10
 
 Isınma turları
@@ -190,4 +197,7 @@ Takımlara belirlendi #rafiki. İş kabul standartları belirlendi.
 TODO: Herkes, repoda kendi adıyla bir branch açıp, buranın altına kendi adını, proje planını ve Reposunu eklesin ve main'e PR atsın. Beni de reviewer eklesin.
 
 - [Gökhan Özdemir](https://github.com/gokhanozdemir) Proje [Planı](https://github.com/orgs/Workintech-Graduate-Projects/projects/12/views/2) ve [Repo](https://github.com/gokhanozdemir/mesela-ecommerce)
+- [Gökcan Parlaktaş](https://github.com/gokcanparlaktas) Proje [Planı](https://github.com/users/gokcanparlaktas/projects/1) ve [Repo](https://github.com/gokcanparlaktas/PixelWear)
+- [Enes Uzunoğlu](https://github.com/enes-uzunoglu) Proje [Planı](https://github.com/users/enes-uzunoglu/projects/2/views/1) ve [Repo](https://github.com/enes-uzunoglu/alem_ticaret)
 - [Furkan Ozan Yüce](https://github.com/furkanozanyuce) Proje [Planı](https://github.com/users/furkanozanyuce/projects/1) ve [Repo](https://github.com/furkanozanyuce/my-ecommerce)
+- [[Berk Karademir](https://github.com/berk-karademir)] - [[Proje Planı](https://github.com/users/berk-karademir/projects/3)] - ([Proje Reposu](https://github.com/berk-karademir/BekoStore))
