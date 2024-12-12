@@ -6,6 +6,14 @@ Toplantı notlarında en yenisi en üstte olacak şekilde listelenecek.
 
 Hepinize iyi eğlenceler 🎉
 
+**Araçlar**
+
+- [Etkinlik Takvimi](https://calendar.google.com/calendar/embed?src=c_98c8f84a6053ffa5ae9eb842f56dac4f9fc139c222ef308be5a3f5c2e2547585%40group.calendar.google.com&ctz=Europe%2FIstanbul)
+- Hazırlık dökümanı: [Github'da Proje Oluşturma ve Sorunları Yönetme](https://scribehow.com/shared/Githubda_Proje_Olusturma_ve_Sorunlari_Yonetme__H5vwPO2rSkmruCE-b5NUJw) #docs #github
+- Kanban [Project Plan](https://github.com/orgs/Workintech-Graduate-Projects/projects/12/views/2) ı #github
+- Önerilen Youtube Playlisti: [Workintech Projesi Doping](https://youtube.com/playlist?list=PL-w1xOwMMQ1PTMXidBINRj9diBko1X86U&si=593jWnLYhvXqixK1)
+- [Toplantı Zoom Linki](https://zoom.us/j/97526490985?pwd=0gffJUjtsB4SY4kbYbBmVqOCyY9EyN.1)
+
 ![Mascot](fun/mascot-0.jpg)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -30,6 +38,22 @@ Hepinize iyi eğlenceler 🎉
 - [Takım Listesi](#tak%C4%B1m-listesi)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# W1D3: 2024-12-12
+
+#read [JS olmadan accordeon](https://www.bram.us/2024/12/03/more-options-for-styling-details)](https://www.bram.us/2024/12/03/more-options-for-styling-details)
+
+Derslere sığmayanlar: https://www.youtube.com/@dodokod
+Umarım ilk günden paylaşmadığım için pişman olmam. Siz biliyorsunuz sanıyordum. Kurulumda takılanlar için: [Hata Gerçirmez Yazılımcı Adaylarına İpuçları - Tips for #FailProof Junior Devs](https://www.youtube.com/watch?v=byzfrZ3qLDY&list=PL-w1xOwMMQ1M1h8j7y_gctCYa5s_G1Ulp)
+
+## 😎 PM Meeting Notes: "Otoparktayız"
+
+- Küçük GitKraken ve PR acıları.
+  Organizasyonal izinler eksikmiş. Verildi.
+
+## 🤓 Dev Meeting Notes "GitHub'ım biçim biçim"
+
+- [GitKraken ile conflict ve nasıl çözülür](https://www.gitkraken.com/learn/git/tutorials/how-to-resolve-merge-conflict-in-git). Baya drag-drop yapmışlar ben bunu kaçırmıştım.
 
 # W1D3: 2024-12-11
 
@@ -81,8 +105,8 @@ _PowerToys ile Masaüstünü Etkili Kullanmak_
 
 *https://www.loom.com/share/928a416a4bb64b3299df316b660aa2f4*
 
-  (Kendimi çektim, belki meşhur olurum diye. Şakası bir yana program efsaneee, arayüz oldukça basit ve bir o kadar da işlevsellik barındırıyor.)
-  (Artık sabah uyanınca kim Vs-Code'u açaçak,tarayıcıyı açaçak onu yazacak bunu kapatacak... derdine son! _Tek tık ile sizin adınıza saniyeler içerisinde kayıtlı çalışma düzeninizi ekrana getiriyor._)
+(Kendimi çektim, belki meşhur olurum diye. Şakası bir yana program efsaneee, arayüz oldukça basit ve bir o kadar da işlevsellik barındırıyor.)
+(Artık sabah uyanınca kim Vs-Code'u açaçak,tarayıcıyı açaçak onu yazacak bunu kapatacak... derdine son! _Tek tık ile sizin adınıza saniyeler içerisinde kayıtlı çalışma düzeninizi ekrana getiriyor._)
 
 # W1D2: 2024-12-10
 
