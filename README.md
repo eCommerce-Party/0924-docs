@@ -199,5 +199,5 @@ TODO: Herkes, repoda kendi adıyla bir branch açıp, buranın altına kendi ad�
 - [Gökhan Özdemir](https://github.com/gokhanozdemir) Proje [Planı](https://github.com/orgs/Workintech-Graduate-Projects/projects/12/views/2) ve [Repo](https://github.com/gokhanozdemir/mesela-ecommerce)
 - [Gökcan Parlaktaş](https://github.com/gokcanparlaktas) Proje [Planı](https://github.com/users/gokcanparlaktas/projects/1) ve [Repo](https://github.com/gokcanparlaktas/PixelWear)
 - [Enes Uzunoğlu](https://github.com/enes-uzunoglu) Proje [Planı](https://github.com/users/enes-uzunoglu/projects/2/views/1) ve [Repo](https://github.com/enes-uzunoglu/alem_ticaret)
-
+- [Furkan Ozan Yüce](https://github.com/furkanozanyuce) Proje [Planı](https://github.com/users/furkanozanyuce/projects/1) ve [Repo](https://github.com/furkanozanyuce/my-ecommerce)
 - [[Berk Karademir](https://github.com/berk-karademir)] - [[Proje Planı](https://github.com/users/berk-karademir/projects/3)] - ([Proje Reposu](https://github.com/berk-karademir/BekoStore))
