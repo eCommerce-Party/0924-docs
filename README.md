@@ -6,6 +6,14 @@ Toplantı notlarında en yenisi en üstte olacak şekilde listelenecek.
 
 Hepinize iyi eğlenceler 🎉
 
+**Araçlar**
+
+- [Etkinlik Takvimi](https://calendar.google.com/calendar/embed?src=c_98c8f84a6053ffa5ae9eb842f56dac4f9fc139c222ef308be5a3f5c2e2547585%40group.calendar.google.com&ctz=Europe%2FIstanbul)
+- Hazırlık dökümanı: [Github'da Proje Oluşturma ve Sorunları Yönetme](https://scribehow.com/shared/Githubda_Proje_Olusturma_ve_Sorunlari_Yonetme__H5vwPO2rSkmruCE-b5NUJw) #docs #github
+- Kanban [Project Plan](https://github.com/orgs/Workintech-Graduate-Projects/projects/12/views/2) ı #github
+- Önerilen Youtube Playlisti: [Workintech Projesi Doping](https://youtube.com/playlist?list=PL-w1xOwMMQ1PTMXidBINRj9diBko1X86U&si=593jWnLYhvXqixK1)
+- [Toplantı Zoom Linki](https://zoom.us/j/97526490985?pwd=0gffJUjtsB4SY4kbYbBmVqOCyY9EyN.1)
+
 ![Mascot](fun/mascot-0.jpg)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -30,6 +38,14 @@ Hepinize iyi eğlenceler 🎉
 - [Takım Listesi](#tak%C4%B1m-listesi)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# W1D3: 2024-12-12
+
+#read [JS olmadan accordeon](https://www.bram.us/2024/12/03/more-options-for-styling-details)](https://www.bram.us/2024/12/03/more-options-for-styling-details)
+
+## 😎 PM Meeting Notes: ""
+
+## 🤓 Dev Meeting Notes ""
 
 # W1D3: 2024-12-11
 
