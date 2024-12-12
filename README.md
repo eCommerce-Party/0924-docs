@@ -43,9 +43,17 @@ Hepinize iyi eğlenceler 🎉
 
 #read [JS olmadan accordeon](https://www.bram.us/2024/12/03/more-options-for-styling-details)](https://www.bram.us/2024/12/03/more-options-for-styling-details)
 
-## 😎 PM Meeting Notes: ""
+Derslere sığmayanlar: https://www.youtube.com/@dodokod
+Umarım ilk günden paylaşmadığım için pişman olmam. Siz biliyorsunuz sanıyordum. Kurulumda takılanlar için: [Hata Gerçirmez Yazılımcı Adaylarına İpuçları - Tips for #FailProof Junior Devs](https://www.youtube.com/watch?v=byzfrZ3qLDY&list=PL-w1xOwMMQ1M1h8j7y_gctCYa5s_G1Ulp)
 
-## 🤓 Dev Meeting Notes ""
+## 😎 PM Meeting Notes: "Otoparktayız"
+
+- Küçük GitKraken ve PR acıları.
+  Organizasyonal izinler eksikmiş. Verildi.
+
+## 🤓 Dev Meeting Notes "GitHub'ım biçim biçim"
+
+Dökümantasyona bir şeyler eklemek isteyenler direkt Merge etmesin. PR'da tutunuz.
 
 # W1D3: 2024-12-11
 
@@ -97,8 +105,8 @@ _PowerToys ile Masaüstünü Etkili Kullanmak_
 
 *https://www.loom.com/share/928a416a4bb64b3299df316b660aa2f4*
 
-  (Kendimi çektim, belki meşhur olurum diye. Şakası bir yana program efsaneee, arayüz oldukça basit ve bir o kadar da işlevsellik barındırıyor.)
-  (Artık sabah uyanınca kim Vs-Code'u açaçak,tarayıcıyı açaçak onu yazacak bunu kapatacak... derdine son! _Tek tık ile sizin adınıza saniyeler içerisinde kayıtlı çalışma düzeninizi ekrana getiriyor._)
+(Kendimi çektim, belki meşhur olurum diye. Şakası bir yana program efsaneee, arayüz oldukça basit ve bir o kadar da işlevsellik barındırıyor.)
+(Artık sabah uyanınca kim Vs-Code'u açaçak,tarayıcıyı açaçak onu yazacak bunu kapatacak... derdine son! _Tek tık ile sizin adınıza saniyeler içerisinde kayıtlı çalışma düzeninizi ekrana getiriyor._)
 
 # W1D2: 2024-12-10
 
