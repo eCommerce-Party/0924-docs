@@ -58,6 +58,9 @@ Hepinize iyi eğlenceler 🎉
 
 Bugün [kırmızı şapka](https://www.debonogroup.com/services/core-programs/six-thinking-hats/)larımızı takarak, ben dahil (Gökhan) neler hissederek ilerledik. Haftaya nasıl, nasıl hem ilerlemeye devam edip, hem de nasıl kötü hissettiklerimizi azaltır, iyi hissettiklerimizi arttırırız hem de dinlenebiliriz üzerine ekipçe fikir paylaşmaya çalıştık. Üzerine hem PM'den hem de Dev'den üzerine biraz soslayıp, halüsünatif bir yapay zeka döküp [kısa bir tavsiye listesi](/stoic-tips-for-developers.md) oluşturdum.
 
+[Armağan Amcalar ve Yeterisizlik Hissetmeye Yanıtı](https://www.youtube.com/live/p-w7lNoLWlU?si=9SjKUS7GNmHfnbCU&t=16777)
+[Javascript Adam Tailwind Makalesini Tartışıyor](https://www.youtube.com/watch?v=z-m5KZik4ZA&t=22459s) #youtube
+
 Hem PM'i hem Dev'i hem de en zalım patron olan kendinizin beklentilerini aynı anda karşılayamayabilirsiniz ve karşılayamayabilirim. :)
 
 Bu hafta raporunu ünlü bir düşünümüzün sözüyle kapatalım.
