@@ -53,7 +53,7 @@ Umarım ilk günden paylaşmadığım için pişman olmam. Siz biliyorsunuz san�
 
 ## 🤓 Dev Meeting Notes "GitHub'ım biçim biçim"
 
-Dökümantasyona bir şeyler eklemek isteyenler direkt Merge etmesin. PR'da tutunuz.
+- [GitKraken ile conflict ve nasıl çözülür](https://www.gitkraken.com/learn/git/tutorials/how-to-resolve-merge-conflict-in-git). Baya drag-drop yapmışlar ben bunu kaçırmıştım.
 
 # W1D3: 2024-12-11
 
@@ -223,5 +223,8 @@ TODO: Herkes, repoda kendi adıyla bir branch açıp, buranın altına kendi ad�
 - [Gökhan Özdemir](https://github.com/gokhanozdemir) Proje [Planı](https://github.com/orgs/Workintech-Graduate-Projects/projects/12/views/2) ve [Repo](https://github.com/gokhanozdemir/mesela-ecommerce)
 - [Gökcan Parlaktaş](https://github.com/gokcanparlaktas) Proje [Planı](https://github.com/users/gokcanparlaktas/projects/1) ve [Repo](https://github.com/gokcanparlaktas/PixelWear)
 - [Enes Uzunoğlu](https://github.com/enes-uzunoglu) Proje [Planı](https://github.com/users/enes-uzunoglu/projects/2/views/1) ve [Repo](https://github.com/enes-uzunoglu/alem_ticaret)
-
+- [Gülşah Karakılıç](https://github.com/Gulsahkrklc) Proje [Planı](https://github.com/users/Gulsahkrklc/projects/5) ve [Repo](https://github.com/Gulsahkrklc/e-comm)
+- [Furkan Ozan Yüce](https://github.com/furkanozanyuce) Proje [Planı](https://github.com/users/furkanozanyuce/projects/1) ve [Repo](https://github.com/furkanozanyuce/my-ecommerce)
 - [[Berk Karademir](https://github.com/berk-karademir)] - [[Proje Planı](https://github.com/users/berk-karademir/projects/3)] - ([Proje Reposu](https://github.com/berk-karademir/BekoStore))
+- [Havva Asal](https://github.com/HavvaAsal) Proje [Planı](https://github.com/users/HavvaAsal/projects/1) ve [Repo](https://github.com/HavvaAsal/shop-sphere)
+-[Kübra Yeşim Tatlı](https://github.com/Kubra-Yesim-Tatli) Proje [Planı](https://github.com/users/Kubra-Yesim-Tatli/projects/2) ve [Repo](https://github.com/Kubra-Yesim-Tatli/GraduateProject)
