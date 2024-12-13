@@ -260,5 +260,5 @@ TODO: Herkes, repoda kendi adıyla bir branch açıp, buranın altına kendi ad�
 
 - [Berk Karademir](https://github.com/berk-karademir) - [Proje Planı](https://github.com/users/berk-karademir/projects/3) - [Proje Reposu](https://github.com/berk-karademir/BekoStore)
 - [Havva Asal](https://github.com/HavvaAsal) Proje [Planı](https://github.com/users/HavvaAsal/projects/1) ve [Repo](https://github.com/HavvaAsal/shop-sphere)
-
 - [Kübra Yeşim Tatlı](https://github.com/Kubra-Yesim-Tatli) Proj e [Planı](https://github.com/users/Kubra-Yesim-Tatli/projects/2) ve [Repo](https://github.com/Kubra-Yesim-Tatli/GraduateProject)
+- [Hediye Ersan](https://github.com/hediye-ersan) [Proje Planı](https://github.com/users/hediye-ersan/projects/1) ve [Reposu](https://github.com/hediye-ersan/Trend-Kod.git)
